@@ -33,6 +33,9 @@ The AutoEncoder model is trained using the Adam optimizer with a learning rate o
 - Latent Space Dimension: 500
 - Loss Function: Mean Squared Error (MSE)
 
+  ![image](https://github.com/user-attachments/assets/e0a0dca3-d58f-41e6-92e6-ad3c992ba8f3)
+
+
 ## Generative Adversarial Network (GAN)
 A GAN-based approach is employed to enhance the quality of reconstructed images. The GAN consists of two components: Generator and Discriminator.
 
@@ -50,3 +53,6 @@ The GAN model is trained using the Adam optimizer with a learning rate of 0.0001
 ### GAN Results
 - Enhanced image quality
 - Improved reconstruction accuracy
+
+  ![image](https://github.com/user-attachments/assets/ce82e81c-7499-449b-b2c2-0b029d1bf42d)
+
