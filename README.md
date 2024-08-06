@@ -1,4 +1,5 @@
 # AUV Image Compression and Reconstruction System
+![AUV Image Compression and Reconstruction System](https://github.com/Amar-Nath-Singh/ImageCompressionGAN/blob/main/demo_video.mp4)
 
 ## Objective
 Design and implement a system that compresses images captured by AUVs (Autonomous Underwater Vehicles) for transmission and accurately reconstructs them at the surface with minimal error. The desired compression ratio should be at least 300 times, translating to a size of about 500-dimensional latent feature space. Mean Squared Error (MSE) loss between actual and reconstructed images will be considered as the metric for the competition.
